@@ -1,0 +1,25 @@
+#title {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 10px 0; 
+    display: flex;
+    justify-content: center;
+}
+#Btn{
+    display: flex;
+    justify-content: center;
+    margin-left: 45%;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(44, 184, 245);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
